@@ -14,6 +14,4 @@ describe BinaryGap do
     expect(subject.solution(15)).to eq(0)
   end
 
-
-
 end
