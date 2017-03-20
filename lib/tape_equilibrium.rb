@@ -1,3 +1,4 @@
+#https://codility.com/demo/results/trainingN2DX6J-ZSZ/
 class TapeEquilibrum
 
   def solution(array)
