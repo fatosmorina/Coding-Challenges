@@ -1,4 +1,4 @@
-#https://codility.com/programmers/lessons/1-iterations/binary_gap/
+#https://codility.com/demo/results/trainingAHZAFN-N4S/
 
 class BinaryGap
   def solution(n)
