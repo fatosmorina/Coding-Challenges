@@ -10,5 +10,4 @@ class PermCheck
       0
     end
   end
-
 end
