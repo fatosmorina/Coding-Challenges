@@ -1,5 +1,6 @@
-require 'set'
 #https://codility.com/demo/results/trainingU7GZN5-MJD/
+
+require 'set'
 class MissingInteger
 
   def solution(array)

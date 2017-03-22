@@ -1,5 +1,5 @@
-
 #https://codility.com/demo/results/trainingHWF4AE-8RH/
+
 class PermMissingElem
   def solution(array)
     array_sum = 0

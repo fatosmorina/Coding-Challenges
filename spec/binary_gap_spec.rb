@@ -3,7 +3,7 @@ require '../lib/binary_gap'
 describe BinaryGap do
 
   it 'should return 2 for the input 9' do
-    expect(subject.solution(9)).to eq(2)
+    expect.def(subject.solution(9)).to eq(2)
   end
 
   it 'should return 20 for the input 1' do
