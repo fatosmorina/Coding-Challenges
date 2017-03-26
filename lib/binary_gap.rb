@@ -11,4 +11,8 @@ class BinaryGap
       parts.map {|part| part.length}.max
     end
   end
+
+
 end
+
+puts BinaryGap.new.counting([3,5,6,3,3,5])
