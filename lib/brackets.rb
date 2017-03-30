@@ -1,3 +1,5 @@
+#https://codility.com/demo/results/training7EUGYN-RHZ/
+
 class Brackets
 
   def solution(s)
