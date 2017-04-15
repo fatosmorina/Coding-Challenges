@@ -16,6 +16,7 @@ anagrams('racer', ['crazer', 'carer', 'racar', 'caers', 'racer']) => ['carer', '
 anagrams('laser', ['lazing', 'lazy',  'lacer']) => []
 
 =end
+
 #https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/ruby
 
 class AnagramWords
