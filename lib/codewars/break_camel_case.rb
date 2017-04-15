@@ -22,10 +22,10 @@ class BreakCamelCase
   end
 
 
-    private 
+private 
 
-    def is_upcase?(string)
-      !string[/[[:lower:]]/]   
-    end
+  def is_upcase?(string)
+    !string[/[[:lower:]]/]   
+  end
 
 end
