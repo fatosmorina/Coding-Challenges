@@ -1,4 +1,5 @@
 #https://codility.com/demo/results/trainingY64YEH-ACG/
+#https://codility.com/demo/results/training7SVCJA-VVW/
 
 
 class Distinct
