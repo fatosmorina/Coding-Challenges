@@ -1,10 +1,10 @@
 #https://codility.com/demo/results/trainingY64YEH-ACG/
 
-require 'set'
 
 class Distinct
 
   def solution(array)
+    require 'set'
     set = Set.new(array)
     set.size
   end
