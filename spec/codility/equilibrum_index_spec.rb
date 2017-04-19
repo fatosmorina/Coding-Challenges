@@ -1,4 +1,4 @@
-require '../lib/equilibrum_index'
+require '../../lib/codility/equilibrum_index'
 describe EquilibrumIndex do
   it 'should return -1 when there is no index' do
     expect(subject.solution([1,2,3,4,5,6])).to eq(-1)
