@@ -1,4 +1,4 @@
-require '../lib/perm_check'
+require '../../lib/codility/perm_check'
 
 
 describe PermCheck do
