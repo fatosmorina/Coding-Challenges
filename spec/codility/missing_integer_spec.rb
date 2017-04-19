@@ -1,4 +1,4 @@
-require '../lib/missing_integer'
+require '../../lib/codility/missing_integer'
 describe MissingInteger do
 
   it 'should return 2 for an array with only one element' do
