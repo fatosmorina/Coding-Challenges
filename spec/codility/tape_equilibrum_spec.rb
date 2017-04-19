@@ -1,4 +1,4 @@
-require '../lib/tape_equilibrium'
+require '../../lib/codility/tape_equilibrium'
 
 describe TapeEquilibrum do
 
