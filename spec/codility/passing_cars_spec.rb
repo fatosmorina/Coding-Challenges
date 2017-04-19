@@ -1,4 +1,4 @@
-require '../lib/passing_cars'
+require '../../lib/codility/passing_cars'
 
 describe PassingCars do
 
