@@ -1,4 +1,4 @@
-require '../lib/distinct.rb'
+require '../../lib/codility/distinct.rb'
 
 describe Distinct do
   it 'should return the number of distinct elements equal to 5 for the first solution' do
