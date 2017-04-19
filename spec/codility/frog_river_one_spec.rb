@@ -1,4 +1,4 @@
-require '../lib/frog_river_one'
+require '../../lib/codility/frog_river_one'
 
 describe FrogRiverOne do
 
