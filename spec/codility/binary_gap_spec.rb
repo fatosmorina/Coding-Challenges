@@ -1,4 +1,4 @@
-require '../lib/binary_gap'
+require '../../lib/codility/binary_gap'
 
 describe BinaryGap do
 
