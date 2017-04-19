@@ -1,4 +1,4 @@
-require '../lib/odd_occurrences_in_array'
+require '../../lib/codilityodd_occurrences_in_array'
 
 describe OddOccurrencesInArray do
 
