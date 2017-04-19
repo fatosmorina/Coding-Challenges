@@ -1,4 +1,4 @@
-require '../lib/brackets'
+require '../../lib/codility/brackets'
 describe Brackets do
 
   it 'should return 1 for a properly nested string' do
