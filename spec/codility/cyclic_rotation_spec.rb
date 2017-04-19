@@ -1,4 +1,4 @@
-require '../lib/cyclic_rotation'
+require '../../lib/codility/cyclic_rotation'
 
 describe CyclicRotation do
 
