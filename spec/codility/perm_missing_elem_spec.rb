@@ -1,4 +1,4 @@
-require '../lib/perm_missing_elem'
+require '../../lib/codility/perm_missing_elem'
 describe PermMissingElem  do
 
   it 'should return 4' do
