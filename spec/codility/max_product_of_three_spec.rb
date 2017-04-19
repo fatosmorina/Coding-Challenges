@@ -1,4 +1,4 @@
-require '../lib/max_product_of_three'
+require '../../lib/codility/max_product_of_three'
 describe MaxProductOfThree do
 
   it 'should return 60 for a basic example' do
