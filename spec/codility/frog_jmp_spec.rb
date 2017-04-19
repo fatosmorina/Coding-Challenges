@@ -1,4 +1,4 @@
-require '../lib/frog_jmp'
+require '../../lib/codility//frog_jmp'
 
 describe FrogJmp do
  it 'should return 3' do
