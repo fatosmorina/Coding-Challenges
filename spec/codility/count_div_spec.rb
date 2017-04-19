@@ -1,4 +1,4 @@
-require '../lib/count_div'
+require '../../lib/codility/count_div'
 
 describe CountDiv do
  
