@@ -4,7 +4,11 @@
 class ValidNumber
 
   def is_number(s)
-    s.to_i ? true : false
+    s =~ /\A\s*
+    (?:[+-]?)             (?# 1: sign)
+    (?:\d+\.?|\d*\.\d+)   (?# 2: significand)
+    (?:[eE][+-]?\d+)?     (?# 3: exponent)
+  \s*\z/x ? true : false
   end
 
 end
