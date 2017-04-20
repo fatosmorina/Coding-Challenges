@@ -1,4 +1,4 @@
-require 'inverse_integer.rb'
+require '../../lib/leetcode/reverse_integer'
 
 describe InverseInteger do
   it 'should return 0 when the reversed is larger than max integer'
