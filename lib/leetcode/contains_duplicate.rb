@@ -9,11 +9,13 @@ class ContainsDuplicate
     set = Set.new
     nums.each do |element|
       if set.include?(element)
-        return false
+        return true
       else
         set<<element
       end
     end
+    false
   end
-  true
+
+
 end
