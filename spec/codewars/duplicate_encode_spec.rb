@@ -2,7 +2,8 @@ require '../../lib/codewars/duplicate_encode'
 
 describe DuplicateEncode do 
 
- it 'should return ' do
-  end
+ it 'should return ((( for din' do
+   expect(subject.duplicate_encode('din')).to eq('(((')
+ end
 
 end

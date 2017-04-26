@@ -3,16 +3,16 @@
 class DuplicateEncode
 
   def duplicate_encode(word)
-    hash = Hash.new
+    hash = Hash.new(0)
     word.chars.each do |character|
       hash[character] += 1
     end
     result = ''
     word.chars.each do |character|
-      if hash[character] > 1
+      if hash[character] == 1
          result += '('
       else
-         result += ')' 
+         result += '()' 
       end
     end
     result
