@@ -20,7 +20,7 @@ describe FindFactors do
     end  
 
     it 'should return [5, 8, 10, 20, 40]] for integer = 40, limit = 5' do
-      subject(subject.factors(40, 5)).to eq([5, 8, 10, 20, 40]])
+      subject(subject.factors(40, 5)).to eq([5, 8, 10, 20, 40])
     end  
 
   
