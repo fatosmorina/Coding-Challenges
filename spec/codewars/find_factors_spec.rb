@@ -10,11 +10,16 @@ describe FindFactors do
      subject(subject.factors(30, 2)).to eq([2, 3, 5, 6, 10, 15, 30])
    end
 
-     it 'should return [100] for integer = 100, limit = 75' do
+    it 'should return [100] for integer = 100, limit = 75' do
      subject(subject.factors(100, 75)).to eq([100])
    end
-
+  
+   
+    it 'should return [1,5] for integer = 5, limit = 1' do
+      subject(subject.factors(5,1)).to eq([1,5])
+    end  
 
     
 
+    
 end
