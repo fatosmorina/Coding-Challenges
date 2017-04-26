@@ -1,3 +1,4 @@
+#https://www.codewars.com/kata/digit-sum/train/ruby
 class SumDigits
 
   def sum_digits(number)
