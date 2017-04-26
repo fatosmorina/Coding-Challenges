@@ -5,7 +5,7 @@ class DuplicateEncode
   def duplicate_encode(word)
     hash = Hash.new(0)
     word.chars.each do |character|
-      hash[character] += 1
+      hash[character.downcase] += 1
     end
     result = ''
     word.chars.each do |character|
