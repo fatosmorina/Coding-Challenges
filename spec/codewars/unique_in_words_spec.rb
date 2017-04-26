@@ -1,4 +1,4 @@
-require '../../lib/unique_in_words'
+require '../../lib/codewars/unique_in_words'
 
 describe UniqueInWords do
 
