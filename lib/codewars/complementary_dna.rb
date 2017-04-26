@@ -1,5 +1,7 @@
+#https://www.codewars.com/kata/complementary-dna/train/ruby
+
 class ComplementaryDna
-  def DNA_strand(dna)
+  def method(dna)
     result = ''
     0.upto(dna.length - 1) do |i|
       if dna[i] == 'A'
