@@ -6,5 +6,9 @@ describe SumDigits do
     expect(subject.sum_digits(0)).to eq(0)
   end
 
+  it 'should return 1 for 100' do
+    expect(subject.sum_digits(100)).to eq(1)
+  end
+
 
 end
