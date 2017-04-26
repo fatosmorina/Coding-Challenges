@@ -14,6 +14,8 @@ describe SumDigits do
     expect(subject.sum_digits(41)).to eq(5)
   end
 
-
+   it 'should return 9 for 99' do
+    expect(subject.sum_digits(99)).to eq(9)
+  end
 
 end
