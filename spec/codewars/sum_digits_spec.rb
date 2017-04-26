@@ -1,4 +1,4 @@
-require '../../codewars/sum_digits.rb'
+require '../../lib/codewars/sum_digits'
 
 describe SumDigits do 
 
