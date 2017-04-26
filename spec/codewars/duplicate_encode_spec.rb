@@ -2,6 +2,9 @@ require '../../lib/codewars/duplicate_encode'
 
 describe DuplicateEncode do 
 
+Test.assert_equals(duplicate_encode("(( @"),"))((")
+
+
  it 'should return ((( for din' do
    expect(subject.duplicate_encode('din')).to eq('(((')
  end
