@@ -11,7 +11,8 @@ class ComplementaryDna
       elsif dna[i] == 'G'
         result += 'C'
       end
+    end
     result
   end
   
-end
+  end
