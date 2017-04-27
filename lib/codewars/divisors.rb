@@ -3,13 +3,12 @@
 
 class Divisors
   
-  def divisors(number)
+def divisors(number)
     result = []
     2.upto(number/2) do |i|
       result<<i if number%i == 0
     end
-    return "#{number} is prime" if result.length == 0
-    result
-  end
+    return result.length == 0 ? "#{number} is prime" : result
+  end 
 
 end
