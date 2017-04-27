@@ -1,6 +1,6 @@
-require '../../lib/codewars/reverse_words'
+require '../../lib/codewars/reversed_words'
 
-describe ReverseWords do
+describe ReversedWords do
 
 
    it "should return 'you are How' for the sentence 'How are you'" do
