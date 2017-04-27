@@ -10,4 +10,11 @@ describe LongestPalindrome do
     expect(subject.longest_palindrome('a')).to eq(1)
   end
 
+
+   it "should return 2 for 'aa'" do
+    expect(subject.longest_palindrome('aa')).to eq(2)
+  end
+
+
+
 end
