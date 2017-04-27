@@ -20,7 +20,7 @@ class MissingLetter
 
   def upcase?(string)
     !string[/[[:lower:]]/]
-end
+  end
 
 end
 
