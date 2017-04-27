@@ -9,6 +9,12 @@ describe MissingLetter do
   it "should return e for the array = ['a', 'b', 'c', 'd', 'f'])" do
     expect(subject.find_missing_letter(['a', 'b', 'c', 'd', 'f'])).to eq('e')
   end
-  
+
+  it "should return e for the array = ['O', 'Q', 'R', 'S'])" do
+    expect(subject.find_missing_letter(['O', 'Q', 'R', 'S'])).to eq('P')
+  end
+
+
+    
 
 end
