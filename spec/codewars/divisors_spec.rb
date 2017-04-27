@@ -16,6 +16,10 @@ describe Divisors do
 
  it 'should return [2] for number = 4' do
     expect(subject.divisors(4)).to eq([2])
-  end
+ end
+
+ it "should return '13 is prime for number = 13" do
+    expect(subject.divisors(13)).to eq('13 is prime')
+ end
 
 end
