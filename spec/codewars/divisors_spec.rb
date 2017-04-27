@@ -10,7 +10,8 @@ describe Divisors do
     expect(subject.divisors(253)).to eq([11,23])
   end
 
-
-#Test.assert_equals(divisors(24), [2,3,4,6,8,12])
+  it 'should return [2,3,4,6,8,12]] for number = 24' do
+    expect(subject.divisors(24)).to eq([2,3,4,6,8,12]])
+  end
 
 end
