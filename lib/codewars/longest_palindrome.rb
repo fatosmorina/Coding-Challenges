@@ -2,19 +2,16 @@
 
 class LongestPalindrome
 
-  def longest_palindrome(string)
-    max = 0
+   def longest_palindrome(string)
+    return 1 if string.length == 1
+    result = [0]
     0.upto(string.length - 1) do |i|
-      max = [max, string[0..i].length].max if is_palindrome?(string[0..i])
+      (string.length - 1).downto(1) do |j|
+        result<<string[i..j].length if string[i..j] == string[i..j].reverse
+      end
     end
-    max
-  end
+    result.max
+   end 
 
-
-  private
-
-  def is_palindrome?(string)
-    string == string.reverse
-  end
 
 end
