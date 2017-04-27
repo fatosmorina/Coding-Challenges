@@ -10,6 +10,10 @@ describe DigitalRoot do
     expect(subject.digital_root(0)).to eq(0)
   end
 
+  it 'should return 3 for number = 12' do
+    expect(subject.digital_root(12)).to eq(3)
+  end
+
 
 
 end
