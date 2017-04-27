@@ -11,7 +11,11 @@ describe Divisors do
   end
 
   it 'should return [2,3,4,6,8,12]] for number = 24' do
-    expect(subject.divisors(24)).to eq([2,3,4,6,8,12]])
+    expect(subject.divisors(24)).to eq([2,3,4,6,8,12])
+  end
+
+ it 'should return [2] for number = 4' do
+    expect(subject.divisors(4)).to eq([2])
   end
 
 end
