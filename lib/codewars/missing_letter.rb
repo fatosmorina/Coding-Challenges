@@ -5,10 +5,10 @@ class MissingLetter
 
   def find_missing_letter(letters)
     alphabet = ('a'..'z').to_a  
-    first_letter = alphabet.index(letters[0])
+    first_letter_index = alphabet.index(letters[0])
     0.upto(letters.length - 1) do |i|
-       if alphabet[i+first_letter] != letters[i]
-         return alphabet[i+first_letter] 
+      if alphabet[i+first_letter_index] != letters[i].downcase
+         return alphabet[i+first_letter_index] 
        end
     end
   end
