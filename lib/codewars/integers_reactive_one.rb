@@ -1,3 +1,5 @@
+#
+
 class IntegerReactiveOnes
 
  def list_squared(m, n)
@@ -23,7 +25,8 @@ class IntegerReactiveOnes
  end
 
   def get_factors(number)
-    list = [1, number]
+    list = [1]
+    list<<number if number != 1
     2.upto(number/2) do |i|
       if number%i == 0
         list<<i
@@ -43,3 +46,4 @@ class IntegerReactiveOnes
   
 
 end
+
