@@ -10,5 +10,10 @@ describe NextBiggerNumber do
     expect(subject.next_bigger(111)).to eq(111)
   end
 
+  it 'should return 414 for input = 144' do
+    expect(subject.next_bigger(144)).to eq(414)
+  end
+
+
 
 end
