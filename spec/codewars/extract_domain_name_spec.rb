@@ -10,4 +10,10 @@ describe ExtractDomainName do
     expect(subject.domain_name("https://gmail.com")).to eq('gmail')
   end
 
+
+  it 'should return cnet for the given URL' do
+    expect(subject.domain_name("http://www.cnet.com")).to eq('cnet')
+  end
+
+
 end
