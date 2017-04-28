@@ -18,7 +18,7 @@ class NextBiggerNumber
     next_bigger_element.join.to_i
   end
 
+  
 
 end
 
-p NextBiggerNumber.new.next_bigger(144)
