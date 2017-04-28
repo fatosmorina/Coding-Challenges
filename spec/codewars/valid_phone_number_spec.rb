@@ -1,4 +1,4 @@
-require '../../codewars/valid_phone_number'
+require '../../lib/codewars/valid_phone_number'
 
 describe ValidPhoneNumber do
 
