@@ -7,7 +7,7 @@ describe NextBiggerNumber do
   end
 
   it 'should return -1 for input = 111' do
-    expect(subject.next_bigger(111)).to eq(111)
+    expect(subject.next_bigger(111)).to eq(-1)
   end
 
   it 'should return 414 for input = 144' do
