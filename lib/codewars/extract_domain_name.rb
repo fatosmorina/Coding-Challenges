@@ -3,6 +3,7 @@
 class ExtractDomainName
 
   def domain_name(url)
+    url.gsub!("www.", "")
     url.split("//")[1].split(".")[0]
   end
 
