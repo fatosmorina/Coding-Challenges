@@ -6,4 +6,8 @@ describe ExtractDomainName do
     expect(subject.domain_name("https://github.com/fatosmorina")).to eq('github')
   end
 
+  it 'should return gmail for the given URL' do
+    expect(subject.domain_name("https://gmail.com")).to eq('gmail')
+  end
+
 end
