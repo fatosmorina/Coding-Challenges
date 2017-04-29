@@ -10,6 +10,10 @@ describe FirstNonRepeatingLetter do
     expect(subject.first_non_repeating_letter('aabbcc')).to eq('')
   end
 
+  it "should return T for mixed cases" do
+    expect(subject.first_non_repeating_letter('Tabs')).to eq('T')
+  end
+
 
 
 end

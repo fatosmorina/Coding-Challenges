@@ -10,9 +10,9 @@ class FirstNonRepeatingLetter
     end
     one_occurrence_letters = hash.select{|letter, frequency| frequency == 1}
     return "" if one_occurrence_letters.empty?
-    index = one_occurrence_letters.first[0]
-    return "" if index.nil?
-    string[index]
+    letter = one_occurrence_letters.first[0]
+    return "" if letter.nil?
+    string[letter.downcase] || string[letter.upcase]
   end
   
 
