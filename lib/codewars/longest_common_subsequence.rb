@@ -1,4 +1,4 @@
-#
+#https://www.codewars.com/kata/longest-common-subsequence/ruby
 
 
 class LongestCommonSubsequence
@@ -14,12 +14,13 @@ class LongestCommonSubsequence
       longer_string = y
     end
     result = ''
+
     0.upto(shorter_string.length - 1) do |i|
-      if longer_string.index(shorter_string[i])
+      if longer_string.count(shorter_string[i])>0
         result += shorter_string[i]
       end
     end
-    result
+   result
   end
 
 
