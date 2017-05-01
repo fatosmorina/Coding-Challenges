@@ -17,5 +17,4 @@ class DuplicateEncode
     end
     result
   end
-
 end
