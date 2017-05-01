@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/1-s-0-s-and-wildcards/ruby
+
 class ZerosOnesWildcard
   
 
