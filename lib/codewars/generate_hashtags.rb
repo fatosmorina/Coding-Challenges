@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/the-hashtag-generator/ruby
+
 class GenerateHashTags
 
 	def generate_hashtags(string)
