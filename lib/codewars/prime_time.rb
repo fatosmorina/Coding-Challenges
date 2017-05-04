@@ -22,7 +22,7 @@ class PrimeTime
 	def generate_primes(number)
 		primes = [nil, nil, *2..number]
 		2.upto(Math.sqrt(number)) do |i|
-			(i**2..n).step(i){|j| primes[j] = nil if primes[j]}
+			(i**2..number).step(i){|j| primes[j] = nil if primes[j]}
 		end
 		primes.compact
 	end
