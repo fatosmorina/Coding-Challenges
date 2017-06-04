@@ -1,27 +1,14 @@
-#https://www.codewars.com/kata/521ef596c106a935c0000519/train/ruby
+puts "please enter your start year"
+start_year = gets.chomp.to_i
+puts "please enter you ending year"
+end_year = gets.chomp.to_i
 
-require 'prime'
+leap_year = start_year - start_year % 4
+leap_year = leap_year + 4 unless start_year == leap_year
 
-class PrimeTime
-
-	def prime(number)
-		primes = Prime.each(number)
-		primes.to_a
-	end
-
-	def alternative_prime(n)
- 	  	primes = generate_primes(n)
- 	end
- 
- 
- 	private 
- 
- 	def generate_primes(number)
- 		primes = [nil, nil, *2..number]
- 		2.upto(Math.sqrt(number)) do |i|
- 			(i**2..n).step(i){|j| primes[j] = nil if primes[j]}
- 		end
- 		primes
- 	end
-
-end	
+while leap_year <= end_year
+  if (leap_year % 100) != 0 || (leap_year % 400) == 0
+  puts leap_year
+end
+  leap_year = leap_year + 4
+end
