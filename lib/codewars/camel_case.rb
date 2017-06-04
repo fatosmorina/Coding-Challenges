@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/camelcase-method/train/ruby
+
 class String
   def camelcase
     words = self.split(" ")
