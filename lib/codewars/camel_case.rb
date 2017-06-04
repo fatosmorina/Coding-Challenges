@@ -1,4 +1,15 @@
-#https://www.codewars.com/kata/camelcase-method/train/ruby
+=begin
+Write simple .camelcase method (camel_case function in PHP) for strings. All words must have their first letter capitalized without spaces.
+
+For instance:
+
+'hello case'.camelcase => HelloCase
+'camel case word'.camelcase => CamelCaseWord
+
+https://www.codewars.com/kata/camelcase-method/train/ruby
+
+=end
+
 
 class String
   def camelcase
@@ -10,3 +21,4 @@ class String
     result
   end
 end
+
