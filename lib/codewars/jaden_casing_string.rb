@@ -6,4 +6,3 @@ class String
   end
 end
 
-puts "abc".toJadenCase
