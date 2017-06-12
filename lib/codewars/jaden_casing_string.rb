@@ -12,7 +12,7 @@ Note that the Java version expects a return value of null for an empty string or
 
 #https://www.codewars.com/kata/jaden-casing-strings/train/ruby
 
-class String
+class JadenCasingString
   def toJadenCase
     self.split(" ").each.map(&:capitalize).join(" ")
   end
