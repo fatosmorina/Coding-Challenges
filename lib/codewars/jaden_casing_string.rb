@@ -13,8 +13,8 @@ Note that the Java version expects a return value of null for an empty string or
 #https://www.codewars.com/kata/jaden-casing-strings/train/ruby
 
 class JadenCasingString
-  def toJadenCase
-    self.split(" ").each.map(&:capitalize).join(" ")
+  def solution(string)
+    string.split(" ").each.map(&:capitalize).join(" ")
   end
 end
 
