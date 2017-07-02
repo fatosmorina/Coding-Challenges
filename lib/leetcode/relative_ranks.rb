@@ -18,11 +18,9 @@ All the scores of athletes are guaranteed to be unique.
 class RelativeRanks
 
 	def find_relative_ranks(nums)
-	    array = nums.dup
+		indexes = find_largest_indexes(nums)
 	    result = []
 		if nums.length > 0 && nums.length < 4
-			
-			indexes = find_largest_indexes(array)
 			
 			result[indexes[0]] = "Gold Medal"
 
@@ -38,30 +36,15 @@ class RelativeRanks
 		end
 		sorted_nums = nums.sort { |a,b| b <=> a }
 
-		sorted_nums.delete_at(sorted_nums.each_with_index.max[1])
-		sorted_nums.delete_at(sorted_nums.each_with_index.max[1]) 
-		sorted_nums.delete_at(sorted_nums.each_with_index.max[1]) 
-	   
-	    gold_element = array.max
-	    gold_max = array.each_with_index.max[1]
-	    array.delete_at(gold_max)
-
-	    silver_element = array.max 
-	    silver_max = array.each_with_index.max[1]
-	    array.delete_at(silver_max)
-
-	    bronze_element = array.max 
-	    bronze_max = array.each_with_index.max[1]
-	    array.delete_at(bronze_max)
 	    0.upto(nums.length - 1) do |i|
-	    	if nums[i] == gold_element
+	    	if nums[i] == nums[indexes[0]]
 	      		result[i] = "Gold Medal"
-	    	elsif nums[i] == silver_element
+	    	elsif nums[i] == nums[indexes[1]]
 	    		result[i] = "Silver Medal"
-	    	elsif nums[i] == bronze_element
+	    	elsif nums[i] == nums[indexes[2]]
 	    			result[i] = "Bronze Medal"
 	    	else
-	      		result[i] = "#{sorted_nums.index(nums[i]).to_i+4}"
+	      		result[i] = "#{sorted_nums.index(nums[i]).to_i + 1}"
 	    	end
 	    end
 	    result
