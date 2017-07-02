@@ -1,4 +1,7 @@
 
+
+#https://leetcode.com/problems/relative-ranks/#/description
+
 class RelativeRanks
 
 	def find_relative_ranks(nums)
