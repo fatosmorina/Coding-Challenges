@@ -1,4 +1,5 @@
 
+#https://www.codewars.com/kata/first-non-repeating-letter/train/ruby
 
 class FirstNonRepeatingLetterString
 
