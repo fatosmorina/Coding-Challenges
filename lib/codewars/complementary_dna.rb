@@ -15,7 +15,7 @@ DNA_strand ("GTAT") # return "CATA"
 #https://www.codewars.com/kata/complementary-dna/train/ruby
 
 class ComplementaryDna
-  
+
   def modify_dna(dna)
     result = ''
     0.upto(dna.length - 1) do |i|
