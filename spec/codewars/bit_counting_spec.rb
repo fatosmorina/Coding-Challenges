@@ -18,6 +18,8 @@ describe BitCounting do
     expect(subject.count_bits(9)).to eq(2)
   end
 
-
+   it 'should return 2 for n = 10' do
+    expect(subject.count_bits(10)).to eq(2)
+  end
 
 end
