@@ -1,5 +1,7 @@
+
+#https://www.codewars.com/kata/bit-counting/train/ruby
+
 class BitCounting
- 
  
   def count_bits(n)
     binary = n.to_s(2)
