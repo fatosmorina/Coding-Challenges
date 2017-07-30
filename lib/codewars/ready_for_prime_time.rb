@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/ready-for-prime-time/train/ruby
+
 class ReadyForPrimeTime
   def first_solution(n)
     require 'prime'
