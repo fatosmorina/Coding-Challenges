@@ -13,4 +13,9 @@ describe ReadyForPrimeTime do
     expect(subject.second_solution(11)).to eq([2,3,5,7,11])
   end
 
+  it 'should return the array for n = 6' do
+    expect(subject.second_solution(6)).to eq([2,3,5])
+  end
+
+
 end
