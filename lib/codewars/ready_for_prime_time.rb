@@ -1,6 +1,7 @@
 class ReadyForPrimeTime
   def first_solution(n)
     require 'prime'
-    Prime.take(n)
+    Prime.take_while{|p| p <= n}
   end
+  
 end
