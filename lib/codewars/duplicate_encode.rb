@@ -10,9 +10,9 @@ class DuplicateEncode
     result = ''
     word.chars.each do |character|
       if hash[character.downcase] == 1
-         result += '('
+        result += '('
       else
-         result += ')' 
+        result += ')' 
       end
     end
     result
