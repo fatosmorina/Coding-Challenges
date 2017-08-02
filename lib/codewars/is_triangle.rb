@@ -6,6 +6,8 @@ Implement a method that accepts 3 integer values a, b, c. The method should retu
 
 =end
 
+#https://www.codewars.com/kata/is-this-a-triangle/ruby
+
 class IsTriangle
 
   def is_triangle(a, b, c)
