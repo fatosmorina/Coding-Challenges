@@ -2,27 +2,27 @@
 
 class IntegerReactiveOnes
 
- def list_squared(m, n)
-   result = []
-   m.upto(n) do |i|
-     sum = get_sum(i)
+  def list_squared(m, n)
+    result = []
+    m.upto(n) do |i|
+      sum = get_sum(i)
       result<<[i, sum] if is_perfect_square?(sum)
-   end
-  result
- end
+    end
+    result
+  end
 
 
- private
+private
 
- def is_perfect_square?(number)
-   square = Math.sqrt(number).to_i
-   square*square == number 
- end
+  def is_perfect_square?(number)
+    square = Math.sqrt(number).to_i
+    square*square == number 
+  end
 
 
- def get_sum(number)
-   get_squared(get_factors(number))
- end
+  def get_sum(number)
+    get_squared(get_factors(number))
+  end
 
   def get_factors(number)
     list = [1]
@@ -43,7 +43,7 @@ class IntegerReactiveOnes
     result
   end
 
-  
+
 
 end
 
