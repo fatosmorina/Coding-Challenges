@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/arrays-ds/problem
+
 class ArraysDs
   def print_reversed(array)
     reversed_array = reverse(array)
