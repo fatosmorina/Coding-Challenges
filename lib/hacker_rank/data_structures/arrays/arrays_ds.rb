@@ -25,6 +25,7 @@ Sample Output
 
 2 3 4 1
 =end
+
 #https://www.hackerrank.com/challenges/arrays-ds/problem
 
 class ArraysDs
@@ -37,7 +38,6 @@ class ArraysDs
 
   def reverse(array)
     reversed_array = []
-    #array = array.split(' ').map(&:to_i) if array
     (array.length - 1).downto(0) do |i|
       reversed_array[array.length - 1 - i] = array[i]
     end
