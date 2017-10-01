@@ -1,5 +1,4 @@
 require '../../../../lib/hacker_rank/data_structures/arrays/left_rotation/'
-require 'pry'
 
 describe LeftRotation do
   it 'should rotate the array with 5 elements' do

@@ -1,0 +1,272 @@
+2017-09-10T12:05:41+02:00 | dbdc8c1132a46f7c4d2fca8f7e0a6f25cdf28ee3 | Test LeftRotationWith100Elements
+2017-09-10T11:57:18+02:00 | 4d3fcc49f783d414e51f88a5ea7668f334115223 | Test left rotation for the array with no elements
+2017-09-10T11:56:26+02:00 | b92f5bd78c107932f5646b6891418063516bacdc | Test LeftRotation with a simple array
+2017-09-10T11:52:51+02:00 | 3a48d1fcc589bd0fe7a4889550785e088a14d03b | Solve LeftRotation
+2017-10-01T11:13:46+02:00 | fefccea92e10e21d87d92aabe1112f268880d3a4 | Delete duplicated class
+2017-09-04T09:08:25+02:00 | 847195b5c6d8ebdad1f3c645ac77d85c7e7bc816 | --amend
+2017-09-04T09:05:03+02:00 | 001b0f6ea6737e6e198e96b22bec43c5d0745fb5 | Add problem source URL
+2017-09-04T09:04:42+02:00 | f4f58e0ffe44a4f210630f6f4893eca30e1d4710 | Add a test for TwoDArrayDs
+2017-09-04T09:04:29+02:00 | baba51414186a6c99db0f863f763e8dfcb502f1f | Solve TwoDArrayDs
+2017-08-27T12:42:19+02:00 | aafb4d829bebf2cb60984536269f36adbce034d6 | Delete unurelated classes
+2017-08-27T12:40:42+02:00 | 3716fa4885fecb7e54e81c141e8e91bc2205916c | Add spec for ArraysDS
+2017-08-27T12:40:28+02:00 | 47d917f52a0f70047547fe0d3fea2de9b8400a33 | Add problem description at ArraysDS
+2017-08-27T12:39:09+02:00 | 9e5ed00e6293c31345036b0f402479dbf1290025 | Add problem source URL at ArrayDS
+2017-08-27T12:38:31+02:00 | d48f60a3a4c7e5d33eeae16876851436e1d76cbe | Solve ArrayDS
+2017-08-20T15:04:53+02:00 | 630ebaaac9678f32c184d6bc7125f7e0412dede7 | Small refactoring at BitCountingSpec
+2017-08-20T14:57:28+02:00 | deb51de5d9ec80af570daadceb10f89449d512aa | Add problem source description at NextPerfectSquare
+2017-08-20T14:55:43+02:00 | 91fd1e4e698f6b54f87e83929683a5c1d2643b73 | Solve NextPerfectSquare
+2017-08-13T15:27:36+02:00 | 118dea32e6db1c72ef03df8846cb04887e2154ff | Add initial spec for UniqueInOrder
+2017-08-13T15:27:06+02:00 | 404cafa0374378379ec0a18cb823728019e66218 | Solve UniqueInOrder
+2017-08-13T15:09:36+02:00 | 48fd6a893ea4708c85c228be8af295c10bcbb288 | Fix the issue with end
+2017-08-12T07:39:34+02:00 | 44833fcd8d95630e4286c35999df571ba72bfaf3 | Add problem description at LongestCommonSubsequence
+2017-08-02T19:32:10+02:00 | 6ee16aa17d7c3f6d560e8f1797be1bb53567cb91 | Add problem source URL at IsaTriangle
+2017-08-02T19:32:10+02:00 | d4adf210c128113b8ca3313cf7438d82b2340b18 | Add problem description at IsaTriangle
+2017-08-02T19:32:10+02:00 | 348241a35a09eda8fb994a1d5aaa699fdcc82aa8 | Fix indentation problem at IsTriangle
+2017-08-02T19:32:10+02:00 | 8182b046d42c4cf75ac0fdca4dd79bcde0fd2740 | Add problem description at RecreationOne
+2017-08-02T19:32:10+02:00 | c910a0dcd9fc8532ff0b3ff32e408c37ff4621f6 | Fix indentation problem at IntegerReactiveOnes
+2017-08-02T19:32:10+02:00 | 9d8c66ccddf6639c870d66587f2dfcfdeeeeb831 | Add problem description at FirstNonRepeatingCharacter
+2017-07-27T19:32:10+02:00 | 6d0916e2bd8a7ada0a1c49d0520fa306f6832851 | Add problem description at FirstNonRepeating
+2017-07-27T19:32:10+02:00 | 8704d58e5a834626087c2b23c3a56a9c92390acc | Add problem description at FindFactors
+2017-07-27T19:32:10+02:00 | c84fd9adf3aa3ff9a34b937e48eec706cf84cd1a | Add problem description at dUPLICATEeNCODE
+2017-07-31T19:32:10+02:00 | fc475ecf127163b6f99e1cfdf7f521c3f981a70b | Add problem description at DuplicateEncode
+2017-07-31T19:32:10+02:00 | 057d4e8c742bcb16f2984db1eefcc4de6aaa6c46 | Fix indentation problem at DuplicateEncode
+2017-07-22T19:32:10+02:00 | 8c33e4229830707b3357455adb1d63b028b20eba | Add problem description at Divisors problem
+2017-07-22T19:32:10+02:00 | abcb77c00d670d4cd6165f25f2387925c2f36367 | Fix indentation at Divisors
+2017-07-22T19:32:10+02:00 | 62e50beb26c389efee824ccd2986b3f4f04caa34 | Add problem description at DigitalRoot
+2017-07-20T19:32:10+02:00 | f8d8d8b673cdff4d4acd5f234a747eb08f0c7300 | Add problem description at ConvertToCamelCaseString
+2017-07-20T19:32:10+02:00 | 97fa2275c5e93330d263326839e6efb29461f2ed | Fix identation at ConvertToCamelCase
+2017-07-20T19:32:10+02:00 | 09eadec6b90530c286c9fe952e17237d1a7a6b6a | Add problem description at ComplementaryDNA
+2017-04-15T19:32:10+02:00 | ac1ce748318531713577fb138b03e29b47cdeac4 | Fix identation at AnagramWord
+2017-04-15T19:32:10+02:00 | 1e0aefec0d85b844bfa69b71894fbcbd069033d6 | Fix identation
+2017-04-15T19:32:10+02:00 | 92f991f414e3600b216d6245011ab708688d581d | Add problem description at AnagramWord
+2017-04-15T19:32:10+02:00 | 0d8c93c00f6637260a2a782b03e17e42754be86b | Add problem description at AnagramWord
+2017-05-01T19:32:10+02:00 | 467aadff1f6d4fd14515dc99b3ea7d3bb0e7325e | Add problem description at AnagramWord
+2017-08-05T21:37:00+02:00 | 017087818fab0adeb3acb1d360cd7b0e93a32696 | Add problem description at RemoveEl
+2017-08-05T21:33:26+02:00 | ff66bd509b5f060d19423e81717b5e9887e20b97 | Solve the problem at LeetCode
+2017-07-30T09:52:44+02:00 | 9c3b5acb5f9c45f14c4cda97a7752a884cd795df | Add problem description at ready prime time
+2017-07-30T09:52:11+02:00 | d86f287be1ab2595419d41e08cbc067ac96a0ab3 | Add problem source URL at ready prime time
+2017-07-30T09:51:44+02:00 | 0e222149d41104c10839a118c84d05d7fa601200 | Test the second solution with n = 6
+2017-07-30T09:51:16+02:00 | 22bd67032db4167af60508555f001e882a8625a0 | Test the second solution with n = 11
+2017-07-30T09:50:10+02:00 | 2e60c605f954bd6d2a71c2cba55d93eb5b5c3fce | Add a second solution for ready prime time
+2017-07-30T09:47:05+02:00 | cfdcfce91301ce48c533684cf73acb40ef564336 | Test ready prime time for n = 11
+2017-07-30T09:45:56+02:00 | 1911eb9c45d6845312a689f492771aeb9c4cc6eb | Add first spec testing ready prime time
+2017-07-30T09:43:08+02:00 | e9d4f8276c402e3b0a47a32809e47ed168d54804 | Solve PrimeTime
+2017-07-23T21:55:46+02:00 | b4a2ea746fcf4468e5add6128e5120b68c76438c | Add problem description at BitCounting
+2017-07-23T21:55:11+02:00 | 8c5e34a70d1127fa41027d93b518e6d06501dd50 | Add problem source URL at BitCounting
+2017-07-23T21:54:40+02:00 | fa3110011ff63981ec2c96ce0b4e5009a04de56d | Test BitCounting with n = 10
+2017-07-23T21:54:11+02:00 | a079bc4737d6f5e813c7ada33c69bcc927bae015 | Test BitCounting with n = 9
+2017-07-23T21:53:29+02:00 | 59824497a9d8c8b67bef70ca1c7691f60c756bdb | Test BitCounting with n = 7
+2017-07-23T21:52:56+02:00 | 23f28b750410f40611837f3cfe25346bba04d651 | Test BitCounting with n = 4
+2017-07-23T21:52:28+02:00 | 26c1b27bb5ff3643ace007658b9ed44a18819a91 | Test BitCounting with n = 0
+2017-07-23T21:50:19+02:00 | e4b4b7a1d2c82189739b6571426cbb973959e96f | Solve BitCounting
+2017-07-16T19:18:01+02:00 | b12ad6537be2eb150a55aafb84d7baf284aeffc8 | Add problem description at First non-repeating letter
+2017-07-16T19:17:24+02:00 | e547178fb381ff143cd67832b9d4663e3882f63f | Add problem source URL at First non-repeating letter
+2017-07-16T19:17:00+02:00 | 901d450de34fdf481442427814adb09146785f71 | Add specs to First non-repeating letter
+2017-07-16T19:16:45+02:00 | 67d16a03442d8ee3f28333729eb6dca9f07a3f7b | Solve First non-repeating letter
+2017-07-09T13:51:16+02:00 | c7d90915ca07a1193b636c734263016876d805db | Solve MergeTwoBinaryTrees
+2017-07-09T13:50:59+02:00 | a4cccbde5bdce98f787b27da8304ac3ba2d3c789 | Add spec for MergeTwoBinaryTrees
+2017-07-02T13:52:06+02:00 | d5f0705b97cf76199695786775f73c8c4a097bb8 | Return custom array with 3 elements
+2017-07-02T13:51:33+02:00 | 34335ee940eff183584969b70708909dfcb294fe | Add new spec at RelativeRank
+2017-07-02T13:50:57+02:00 | 343285a9487803af3bfa97153267a0b4fd4f13a5 | Add more meaningful problem test case description at RelativeRank
+2017-07-02T13:50:00+02:00 | ed42faf1fe2e41eef1ff84b0105074329f14594f | Add test case for RelativeRank
+2017-07-02T13:49:08+02:00 | a5591c36d4e91fbf158693bdfa55631d358a6130 | Refactor RelativeRank
+2017-07-02T13:44:45+02:00 | 16045b2ca10bff4b6b8f185046a2483fbe6af7b3 | Add problem description at RelativeRank
+2017-07-02T13:44:10+02:00 | 56f3afa65fbb8ca0c2ecc5a478968843ad2b39e4 | Add problem source URL at RelativeRank
+2017-07-02T13:43:50+02:00 | 8633494bbe35dcf7bf4a4d04ddda3f3c9a397808 | Solve RelativeRank
+2017-06-27T09:12:53+02:00 | 7b63308c643a7889a1394c2240e8bd91655402a3 | Put problem description above problem source URL at DistributeCandies
+2017-06-27T09:12:14+02:00 | 241f73c28ebc0cfa3b4970ffa595b2cf359a4121 | Add problem description at DistributeCandies
+2017-06-27T09:10:42+02:00 | 85ddc8dfa08baaf352e6f442cbbe7806aecf2816 | Add specs for DistributeCandies
+2017-06-27T09:10:23+02:00 | fdc8723ece01444de81060b5ae458ad419262fac | Solve DistributeCandies
+2017-06-12T15:03:10+02:00 | 5b0ef100af7315641b0dafdb6b75cf93dd4ca83f | Add spec description
+2017-06-12T15:02:47+02:00 | 3d5994c4f5e680d55b34e0fafb9e36f045f2efe9 | Add test for JadenCasingString
+2017-06-12T14:46:00+02:00 | 232fc77b23bc000fb9d26921fcb4aa227c94f04c | Rename method at JadenCasingString
+2017-06-12T14:45:35+02:00 | 7ed4e46ff3ad510db7f8b3177d4848909b721aa1 | Rename class JadenCasingString
+2017-06-12T14:45:03+02:00 | ec468cccaada64bb36c5f6a8b209bc00f29b35a9 | Add problem description
+2017-06-12T14:43:48+02:00 | 9382dd1bccefbfef8a907a00ff78c26a72ae8b58 | Remove unused put at JadenCasingString
+2017-06-12T14:43:34+02:00 | fa9439fc0731c4cb19ea4ce0c59342e12546e5b9 | Add problem source URL at JadenCasingString
+2017-06-12T14:43:12+02:00 | faf2cb430f4d71c29acfa5b9ceab714fa089fea5 | Solve JadenCasingString
+2017-06-04T11:01:23+02:00 | 1936577ea783b3fd24cdcfae2d373434c69b0f0c | Add new spec testing camelcase method
+2017-06-04T11:00:04+02:00 | 07dbe795dbce3e547ef87d87ceb1ac55fce06aef | Add problem description at camelCase
+2017-06-04T10:47:11+02:00 | 45fb3eef465a356ebfb980ff0dcfe1ecc41199d4 | Add problem source URL
+2017-06-04T10:46:49+02:00 | fd6f122048f9290f4e2889811c1dd564213be23d | Solve CamelCase
+2017-05-07T08:07:34+02:00 | adfd7806aabe222403b5beac470a60333ec42bf2 | Revert PrimeTime to its previous state
+2017-05-07T07:30:52+02:00 | 10b22ad2cdb5157b6e0e61d87bcab1fd6d375ebb | Solve VeryEasy
+2017-05-04T12:36:21+02:00 | 52e9994631eb59be2d3b1952b329c29f0f74cc1d | Rename method alternative_prime to alternative_solution_prime at PrimeTime
+2017-05-04T12:35:38+02:00 | c3957ed7d026230203b2e8414f8067763f649d59 | Rename n variable
+2017-05-04T12:34:20+02:00 | ebc3cfb446b3043b6188a5d34ca8c12cb03cfcf6 | Remove nil elements from array of primes at PrimeTime
+2017-05-04T12:33:22+02:00 | 605367d858a76e08e4a4f461e5bda6172b4e38f6 | Add new test for alternative solution for PrimeTime
+2017-05-04T12:32:26+02:00 | 5b5132a15c4b3669390570f7312572c76d3b1219 | Add a new solution to PrimeTime
+2017-05-04T11:33:38+02:00 | 919d398ff8fcb9a642cadd48c0266a46e7620e04 | Test PrimeTime with n = 11
+2017-05-04T11:32:37+02:00 | 2f25818462d5ce93a71dece93641c4a0008648a2 | Add problem URL at PrimeTime
+2017-05-04T11:32:14+02:00 | 843cb4cd912005a57e7366030bf9d6d1ce3ba1fe | Solve PrimeTime
+2017-05-04T11:16:51+02:00 | 69ccdb7106e0d2f66c94f9f0b74e1dda480b6ccb | Add problem url at GenerateHashtag
+2017-05-04T11:15:57+02:00 | 4678dd403e140195bc9751f07536ec339be8fec1 | Solve GenerateHashTags
+2017-05-04T09:49:58+02:00 | 93609685e99f1c6ffb3e400e0958615985902307 | Refactor soluiton of ConvertToCamelCase
+2017-05-04T09:47:59+02:00 | bd99ac487e26b7d4337dfa1ecc704f21f5314463 | Solve ConvertToCamelCase
+2017-05-03T21:13:55+02:00 | a5ef7002af647499ff9d4a4983b3fdc5e5324d8e | Add spec testing number of trailing zeros for 1000! factorial
+2017-05-03T21:12:44+02:00 | a6b2fee9afa8a4a72daa47ff879f54e58d84c6e5 | Add spec testing number of trailing zeros for 5
+2017-05-03T21:06:19+02:00 | 48a0c9d11fbdabc6768afa57d30df3a2d68e02ec | Solve NumberOfTrailingZeros:
+2017-05-01T09:39:55+02:00 | e4378b1cb7bd5b87886225d246568f4c1a85ddbf | Add problem URL
+2017-05-01T09:39:31+02:00 | cc58a56ca1b5a437f3e5f9a912eaac347db568eb | Solve ZerosOnesWildCards
+2017-04-29T12:12:34+02:00 | 31f952ddc8d40a52209cce26166d7aa5d45ec072 | Solve PerfectPower
+2017-04-29T09:20:46+02:00 | af9f6fc86ef78d88ea17820eb2b963ff27e1685e | Refactor LongestCommonSubsequence
+2017-04-29T08:43:10+02:00 | 56dbbc4546015c68eeba89e1f9b840d0b3f2545d | Solve LongestCommonSubsequence
+2017-04-29T07:47:47+02:00 | 354de560e65518b01235044956ac02210522b9d3 | Solve BreakCamelCase
+2017-04-29T07:20:17+02:00 | 303ef55c5609d8579a8e2324f67c08b8ae530e91 | Refactor FirstNonRepeatingLetter
+2017-04-29T07:08:09+02:00 | 16189c2bc168b3c535525eb1d7093f6e0db33714 | Solve FirstNonRepeatingLetter
+2017-04-28T22:05:03+02:00 | 46a76065578f640e060f6613dbdb5222079fd37a | Solve FirstNonRepeatingLetter
+2017-04-28T21:22:59+02:00 | 4091ce444d98ab2b9402d62512ccc9d9bbf8dbff | Fix spec regarding anagram words
+2017-04-28T21:19:50+02:00 | 35f5b8d854ee59fdacc80027b1ba0fe07f94f05f | Solve AnagramWords
+2017-04-28T21:18:39+02:00 | 7dd48bad302e5ad3e8fbcfb9478f1fc8e15bf200 | Solve AnagramWords
+2017-04-28T15:51:47+02:00 | acaf89ae8a73bbb2569098866cfc7813de4fa229 | Update test
+2017-04-28T15:41:10+02:00 | 6fd7705d0e31a726932e61585ea07dfa108c203a | Insert problem URL'
+2017-04-28T15:40:53+02:00 | c4f48baa617e266b99ac42f0045902edf5ad554b | Add set at NextBiggerNumber
+2017-04-28T15:35:54+02:00 | 526442f0546aadbd91da104c12626b5a5b38ffd2 | Add new test for next bigger number
+2017-04-28T15:35:15+02:00 | 1cf7a5b54d85ac89f431b40702b0653d92d013d9 | Solve NextBiggerNumber
+2017-04-28T14:36:22+02:00 | 852b354536dd28fb3870e87ce46a5201a32d02f8 | Add substitution of www at extract domain name problem
+2017-04-28T14:34:39+02:00 | be848f81accb54f93f40757170ce2e0a2828b301 | Add new test for extract domain name problem
+2017-04-28T14:32:55+02:00 | 64189e4f5902d85d07ec8ac5edb77f069013a4a9 | Add new test for extract domain name problem
+2017-04-28T14:31:47+02:00 | 5496dcd92f3505c6ac8d898ec185f930378deaf9 | Solve extract domian name
+2017-04-28T14:19:30+02:00 | 6d0b8f167e64c8e362de7b1060af45606c6084ef | Solve NarcissisticFunction
+2017-04-28T12:44:23+02:00 | 6b4e7028893a18dcbe2d75e1b2c0cfc017e86d40 | Rename integer reactive ones spec as the class name:
+2017-04-28T12:41:50+02:00 | ad4e8e9b81cc11054fe3e3992422f6c8a3ff86dc | Solve IntegerReactiveOnes
+2017-04-28T12:40:22+02:00 | 2ade09c34ce62cfc96a5f671f35f816da44eeae1 | Consider when m = 1, n =1, for integer reactive ones
+2017-04-28T12:29:07+02:00 | f6fcf632034cfe41fdad8db16e5429f4935abec8 | Add new test for integer reactive ones
+2017-04-28T12:27:45+02:00 | bb6d4d707b3bce515299b7ada1ae242f785251c1 | Solve IntegerReactiveOne
+2017-04-28T11:50:36+02:00 | 8a96ef9575bb8e3b59fefbcb6153af1d563e92c3 | Add number length check
+2017-04-28T11:48:19+02:00 | a28a4fcb1c33dee2468c969b35bc037a9ba46fb4 | Solve ValidPhoneNumber
+2017-04-28T11:23:56+02:00 | 4bb2eae06dcc59512e8e342450a94cfe31425026 | Update require path
+2017-04-28T11:23:23+02:00 | 6b8d23482ce5fdb47177e69ed7c7e9673cdf8345 | Solve ValidPhoneNUmber
+2017-04-28T11:13:10+02:00 | bc1f82c119c4d6cc29ea229122674aab890721d6 | Change name of parameter in increment_string
+2017-04-28T11:12:46+02:00 | 9db49b4c3dcc33233c19c7c9a495c3ba385dcb9a | Rename subject.method called
+2017-04-28T11:11:53+02:00 | b485d046e5627038e1b43df39e779f02114fd125 | Solve increment_string
+2017-04-27T21:19:55+02:00 | 447cb996e2939f69d91c21466b719ee91686e357 | Solve StringIncrementer:
+2017-04-27T21:05:00+02:00 | f8a46c405ae0253e2a1cf95d22294e4bf2987fc5 | Solve StringIncrementer
+2017-04-27T21:00:03+02:00 | 9710f8286e53dd154867d6c6fb6798e3b1407687 | Solve PhoneNumber
+2017-04-27T20:59:24+02:00 | 48ccc9a1c3e4dbd6d81f42eaa185226b7ef6d17f | Solve PhoneNumber
+2017-04-27T20:57:28+02:00 | 748616731a0da45bf8121e000797f37c291b5296 | Solve CreatePhoneNumber
+2017-04-27T20:39:16+02:00 | 070bf0282f65d59f6cd94cdb71faf26bbdbfb177 | Solve LongestPalindrome
+2017-04-27T16:01:44+02:00 | 5f1cc6bfbf12ff52e7bc3e35e2706e9fa12bd211 | Test LongestPalindrome for input aa
+2017-04-27T16:00:14+02:00 | a5499c84011b410d1201d45272453e383cff0fbc | Solve longest_palindrome
+2017-04-27T15:38:50+02:00 | f422c64fee2fe058e4a730868dde6404717246dc | Add spec testing reverse_words
+2017-04-27T15:37:28+02:00 | e1c212587508f0e128edadb421533e1bbee1ad33 | Add spec testing reverse_words
+2017-04-27T15:34:07+02:00 | 62d370c6bdabe4cdcea0f80a1da5a61470db6f2c | Solve ReverseWords
+2017-04-27T15:20:41+02:00 | a3b0fa5745520254bcd9d15e44c92ed49f422490 | Test DigitalRoot for number=12
+2017-04-27T15:20:09+02:00 | 174bf5226ae8fc07b1e4ff2502ce92113b82b698 | Test DigitalRoot for number=0
+2017-04-27T15:18:35+02:00 | 7d8c0ffa3c623b741501ea701271139dea0c50e4 | Test DigitalRoot for number=15
+2017-04-27T15:17:00+02:00 | 9c1fd87cf1086d2629b8338cbe866406b81446cc | Solve DigitalRoot
+2017-04-27T15:12:51+02:00 | 9c3375de1c0b97baeffa55649c928167ad04d343 | Refactor find-divisors
+2017-04-27T15:09:35+02:00 | 22071583c7df51a4960910b2b724e539b4e23421 | Add new test case for prime number:
+2017-04-27T15:08:18+02:00 | 218c41c253173a658c31fb78d0bb6554b6da4fc8 | Add new test case for Divisors
+2017-04-27T15:02:08+02:00 | 25638f4a837a1b23310b921bbbb155312c6a4e83 | Add new test case for Divisors
+2017-04-27T15:01:22+02:00 | 45a049e9a17c2deac05ad425811fa433d729c21b | Add new test case for Divisors
+2017-04-27T14:59:41+02:00 | fd38e45b2052ddefb33f1cb53b1f3c89dfb39457 | Improve require path
+2017-04-27T14:58:07+02:00 | 5cba4eed7d7976f386efd92f36413f901fbf1c46 | Solve Divisors
+2017-04-27T09:51:24+02:00 | 60193a2363fb8620dd36682743610d0df382e2e6 | Add is_upcase method
+2017-04-27T09:35:14+02:00 | 9f86b42835175ac178eef6485d434656e0062381 | Add new test case for missing letter
+2017-04-27T09:25:14+02:00 | 828b6961af8f52af893838a18666f74e821f4ff5 | Rename the method as the method name in CodeWars
+2017-04-27T09:22:55+02:00 | cdd2223b8eaa097262dbd1cafa421a8bd3e1545d | Solve MissingLetter
+2017-04-27T09:04:37+02:00 | b42b415bcc70c29c2d57a470c0ed92c0244c3955 | Fix failing test at ComplementaryDna
+2017-04-27T08:59:48+02:00 | 71feeb29c1bb54e566423c85731e56f10a387894 | Add spec for MissingLetter
+2017-04-27T08:55:09+02:00 | 963d7976131292bb0ab5904746f57fb656765c88 | Solve ComplementaryDNA
+2017-04-26T21:24:05+02:00 | 5bd2589caccbeda7933e867fc87c7616af328b55 | Add problem URL
+2017-04-26T21:21:54+02:00 | 4d5df47039953a1ef320e2b9b156dfa3bdd9716b | Update spec description at UniqueInWordsSpec
+2017-04-26T21:16:39+02:00 | e665211ab5a8a7b056f76389367ea4e9bb827e1c | Add missing end
+2017-04-26T21:12:55+02:00 | 41313c55d8aabef152913609325e692e176495b9 | Solve ComplementaryDNA
+2017-04-26T21:07:38+02:00 | f2ed911d5c2a82da9611fc48d4baf8eaea8c970d | Solve IsTriangle
+2017-04-26T21:00:22+02:00 | 1d02e76eaa6cddf4a5d4d8ef3eb46395ce36c9e1 | Add condition when iterable.length = 0
+2017-04-26T20:58:43+02:00 | f83d3782af8ce5596af696ad7cadcbcb7cd7d00c | Improve import path
+2017-04-26T20:58:19+02:00 | c9bf5a9ff770632aa1aeff955d17e56943541a49 | Add missing quote
+2017-04-26T20:56:19+02:00 | 09336bc7cf4aa0134be8892c465dcc318675d8fa | Solve UniqueInOrder
+2017-04-26T16:13:04+02:00 | 5432d18ccbdfeb5cc27cf26a0a2cd9e1fbe542fd | Add expect at specs
+2017-04-26T16:11:38+02:00 | 5930b24745dd060bd9e722b29c6dd25b43723f14 | Add problem URL
+2017-04-26T16:10:33+02:00 | df7f6366091f5614f407d7047227cdb970136ff5 | Remove unnecessary bracket
+2017-04-26T16:09:43+02:00 | 865d8ecfcfec964c6935978c8026d5843e78da94 | Add test case for FindFactors
+2017-04-26T16:09:04+02:00 | 0bc195045aba8e52d13d493b24a8edd73a86456c | Add test case for FindFactors
+2017-04-26T16:08:09+02:00 | 665cef04e5f392f04f98542f99d645276e59cac0 | Add test case for FindFactors
+2017-04-26T16:06:54+02:00 | bea3bcf1dee57ac6b4bd5521d4c1e9eb011b4fa7 | Add test case for FindFactors
+2017-04-26T16:05:31+02:00 | c5a47d79b055a0672cf9c7dae6aa1ef0212bc9b3 | Solve FindFactors
+2017-04-26T12:28:27+02:00 | f28c4025c3058adc45eb71a391d7cd74955efce4 | Convert characters into downcase
+2017-04-26T12:25:41+02:00 | 18eb51fe079adcd9a3744aa7a1b73512df05549c | Add tests for duplicate_encode
+2017-04-26T12:18:58+02:00 | c8d0b38affd765ba730ce6ae2ad885fa2a426009 | Add new test for duplicate_encode
+2017-04-26T12:18:03+02:00 | d9c1668f810ab61354c1f3c8d1313b2b1bf88aea | Fix bug at duplicate_encode
+2017-04-26T12:15:20+02:00 | b9edbb064fb0b005ce84df56a34d17c10d1073d9 | Solve DuplicateEncode
+2017-04-26T11:51:54+02:00 | 813ecc68fc4e736682c6b41960990a61735297b6 | Add problem URL
+2017-04-26T11:51:18+02:00 | 88c9cb13a9d7598c45b1377d943639b11eda9214 | Add check for number = 0
+2017-04-26T11:48:13+02:00 | 8e9526ea507af1697bacc537240dc405fc7ed97b | Add class declaration
+2017-04-26T11:46:52+02:00 | bddace033c50803b9d0e33211a555450cfd79e8f | Test sum digits for 99
+2017-04-26T11:46:18+02:00 | 1017f763259f4a22630903ba9f6b1d4aace14a5d | Test sum digits for 41
+2017-04-26T11:45:07+02:00 | 29d4a3fc2824b476d193355920fa6edc9e85f688 | Test sum digits for 100
+2017-04-26T11:44:11+02:00 | 8dff79fe2942db0fd8f84082405ab0d88a578199 | Solve SumDigits
+2017-04-24T11:34:38+02:00 | fa71e8d1261d7ec64b64004c77b8556bbe4fbb2a | Solve UglyNumber
+2017-04-22T10:43:28+02:00 | a4dfafab4a4ff4bde3033aed7f1cf9cc849047b1 | Add a spec testing reverse Words in a string
+2017-04-22T10:41:51+02:00 | c122ffdbff5fd4edf6925338c5f044c79f5d3536 | Solve ReverseWords
+2017-04-22T07:45:18+02:00 | 15d91c5f35e713edc139889cd45cdf1020a130ec | Solve ContainsDuplicate
+2017-04-22T07:44:58+02:00 | a7f7660c30862f9445b4596017db28062ffa9f6d | Add spec testing for empty arrays
+2017-04-22T07:43:30+02:00 | aa5aa8e47f9e1e55a590be1d9fc3614b45a2d20d | Add spec testing when it does not contain duplicates
+2017-04-22T07:37:51+02:00 | 637d6468d5b47dfeb5b1bcf312923b3f0156fa3b | Add spec testing for duplicate elements
+2017-04-22T07:35:03+02:00 | 90cefa93db34923869b5e4bbf173894214b99b15 | Solve CountPrimes
+2017-04-21T08:20:22+02:00 | b98746aae619ed1867b90581d6fad82d5c03838f | Add additional specs
+2017-04-21T08:11:48+02:00 | afc09029e04a3596bd962f1b6fb9861973567696 | Add spec for PrimeNumber
+2017-04-21T07:47:06+02:00 | db52b3957779bc01f8d854e2e0aaaf81cc60eeea | Add additional spec to SingleNumber
+2017-04-21T07:45:05+02:00 | 9921aa829f51534d719ce0ea7c4c31215ed3e1b2 | Implement SingleNumbeR
+2017-04-21T07:43:47+02:00 | 48e9f0696b4352f77fceed3b67e44e1d17e77c96 | Add spec for SingleNumber
+2017-04-20T11:14:41+02:00 | 58e27a8fb0e388e142b349eceedb15e95a61ef86 | Solve ValidNumber
+2017-04-20T10:43:05+02:00 | e5703203a35111ec0da7460fc669f9325e4cf53d | Add spec for ValidNumber
+2017-04-20T10:37:26+02:00 | f7573b8a06e51f54442fa1e8dab4778b89adc5c1 | Solve LongestCommonPrefix
+2017-04-20T09:30:04+02:00 | d6e83a67b78f2127cd5935103d80997986d318f4 | Write a spec for longest common prefix
+2017-04-20T09:19:39+02:00 | ef61e6d8cdee453a853c86b0c25b06d28ff520be | Add test when number is not a palindrome
+2017-04-20T09:19:05+02:00 | bb5c8e1ef1dcef0a8c1e3d989c34ae7d2db0d935 | Add spec for palindrome number
+2017-04-20T09:16:48+02:00 | 0412add1f0ee0bc80711a6df58a724bf99bf5bc9 | Solve palindrome
+2017-04-20T08:16:01+02:00 | e9f667cf9ac729153ce7b7cd0ec5a1785a90d8ca | It should reverse_integer
+2017-04-20T08:15:06+02:00 | ff94c7c68e732bb950637b4d20146921a276bda5 | Add new rspec at reverse_integer
+2017-04-20T08:14:15+02:00 | 318e1eca46bbd9c1cfa6c7875dd457a9c34807ec | Add another number so that when it is reversed, it surpasses the max integer in 32 bits
+2017-04-20T08:11:28+02:00 | 2608aafabdfa0a09eac6cae7b62134ebcc9a730c | Add missing do at reverse_integer spec
+2017-04-20T08:07:06+02:00 | 84cb942840b2005e424ef4d17af21aa200860117 | Put reverse_integer method inside a class
+2017-04-20T08:03:12+02:00 | 95996f443567795892e1cbc6f36e0369c149e3ed | Rename inverse_integer to reverse_integer
+2017-04-20T07:57:52+02:00 | e94f6b26919cf03a827673264afa3ec6b2a07a15 | Add a test for inverse_integer
+2017-04-20T07:53:00+02:00 | 9a244e5edf1d193f1fda75bc908457c26b2cb26f | Solve reverse_integer
+2017-04-19T22:03:19+02:00 | 2498fa973621c136e901778968227a842389b682 | Update tape euqilibrum in array  import directory
+2017-04-19T22:02:53+02:00 | f4dd816a0bcc1d9ba7d305a3c3d2a09b13a8b62d | Update perm missing element  in array  import directory
+2017-04-19T22:02:36+02:00 | d7e638a5eb33f45fd203f08fe1ba44b616ec1109 | Update perm check in array  import directory
+2017-04-19T22:02:10+02:00 | e9a34b0a9519d49b5799e262a0a01c7508c3bc3b | Update passing cars in array  import directory
+2017-04-19T22:01:49+02:00 | b463d1d252c601e2addb22502506f361313c3d88 | Update odd occurrences in array  import directory
+2017-04-19T22:01:27+02:00 | 788cc9dc07ba49c270f1a100757fdc97062ba80b | Update missing integer import directory
+2017-04-19T22:01:06+02:00 | 2c199d9209c01e9fd531fed3ca25caa4920c68ac | Update max product of three import directory
+2017-04-19T22:00:36+02:00 | 2fb975672cec574f12aa2f337cd89c5886ccbc4a | Update frog river import directory
+2017-04-19T22:00:18+02:00 | c9bd7d03d2b727c0cfc439039672b64573f802a1 | Update frog jmp  import directory
+2017-04-19T22:00:00+02:00 | e98ba990cb5ccd9935624f58da622ccc9a4de11d | Update equilibrum index import directory
+2017-04-19T21:59:39+02:00 | e445f3433981f0d43dfcd23a9efc408ee543f1e2 | Update distinct  import directory
+2017-04-19T21:59:20+02:00 | c039f67178c08a33857ef4175b5d57b6a23248df | Update cyclic rotation  import directory
+2017-04-19T21:58:55+02:00 | 89e7aff67ce12314383ca7d63f30b13445328bf0 | Update count div import directory
+2017-04-19T21:57:36+02:00 | 6f020f2e7d141d9585c663e62a59469b88c59e4a | Update binary gap import directory
+2017-04-19T21:54:14+02:00 | 241730ae7c5cafe890c64d9c62c9f035c9e95bf2 | Add separate directories for Codility problems
+2017-04-17T09:00:56+02:00 | 671877aff39c3e0fc382abee08f0fb4f442a470f | Add Codility results for the second solution
+2017-04-17T08:47:04+02:00 | 063dec826004ab52c4de5a2cc06ef4205342f364 | Import set only when the method uses it
+2017-03-30T08:34:16+02:00 | c9b0f7edad409f7c70103bb5caf376854f7640bf | Add link with Codility result of the problem
+2017-03-30T08:32:27+02:00 | a83b6124169533349e6e8636a6ded0f33901d569 | Solve Brackets
+2017-03-29T22:36:41+02:00 | 492ef2469ab3a14c0ae6202a641c4dcd70124039 | Solve Brackets
+2017-03-27T08:24:23+02:00 | 42222014a6437190e96f61f6f5c9eec6676a16e7 | Solve Triangle
+2017-03-27T08:14:39+02:00 | 7da61a65aa66216ffd87e48fc4bf289497e3aaa1 | Solve MaxProductOfThree
+2017-03-27T08:00:36+02:00 | 7f6fd96603796171c199de256ff02f18cf1a2493 | Add second solution of finding distinct elements in an array
+2017-03-26T22:47:47+02:00 | 09ef6792568184651578f8879bac121edc6593ea | Remove unused puts
+2017-03-26T22:45:45+02:00 | 2724557785a82436587aaa83f6706fda43f2c545 | Solve Distinct
+2017-03-26T22:44:54+02:00 | 2e7d912f03928517b6e074fc58fb67de6847a016 | Solve Distinct
+2017-03-24T20:43:33+01:00 | a4dbe36e676287cbb9a5999aa0700fbee20dd975 | Solve PassingCars
+2017-03-23T19:35:54+01:00 | 09f78e7003e8aece7870b4977bc77b3180c46069 | Solve CodilityTest
+2017-03-22T15:54:42+01:00 | f41ad98af3390d8bfe75b1c88e99abbaae5aab7c | Remove .def from SPEC
+2017-03-22T15:53:50+01:00 | ab40c37ff45d00db3b514e3051976061a08607ae | Add README file
+2017-03-22T15:51:29+01:00 | f4e3feae5f72877169801d124ad4b0467926201e | Solve CountDiv
+2017-03-21T10:31:27+01:00 | c2db70ed5a1ea1985e9cdfb63fb05c6e75b6ae2e | Remove unused method
+2017-03-21T10:30:49+01:00 | 77e1891928200f232b199c37fb4648c2211be754 | Solve MissingInteger
+2017-03-21T10:14:59+01:00 | e37167129a193cb3471305c0136d0d948a1fe0a8 | Solve FrogRiverOne
+2017-03-20T11:35:19+01:00 | 7ba4a9b04d36368278192c3c0f153438b9c8fb4a | Solve PermCheck
+2017-03-20T11:11:11+01:00 | 25d74fd71d2bd00b4d1760503acd246cf1b957a3 | Add URL of the result
+2017-03-20T11:08:40+01:00 | a496b6aec0ae05d607d08a707fcd8de965aa46bd | Solve TapeEquilibrum
+2017-03-20T08:43:22+01:00 | deac93d57595336e2b26ee6ead22993014fab11b | Solve PermMissingElement
+2017-03-20T08:35:09+01:00 | 91dd002fe74765c885e8d8ee3e8b3334854cdfe2 | Solve FrogJmp
+2017-03-20T06:46:56+01:00 | 0a20fa6fb0225f4ef192d994e38c5c33aa669a58 | Solve OddOccurrencesInArray
+2017-03-20T06:39:59+01:00 | 439cd88ce440a47eff599df67596664cbbce4c44 | Add Codility result
+2017-03-19T22:00:55+01:00 | 42e78e7ceaec03e517fe3b273a0dba3d90db4fcf | Add result of the test
+2017-03-19T21:59:25+01:00 | 715a893386a9ead5898f86db9d334938ca04fa98 | Solve CyclicRotation
+2017-03-19T15:59:23+01:00 | eff237bb520844b3d8420df25062372dae2f29ed | Solve BinaryGap
