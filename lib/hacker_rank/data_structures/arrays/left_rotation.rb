@@ -1,3 +1,6 @@
+
+#https://www.hackerrank.com/challenges/array-left-rotation/problem
+
 class LeftRotation
   def left_rotation(a, d)
     result = [] 
