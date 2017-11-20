@@ -1,4 +1,5 @@
-#https://codility.com/demo/results/trainingHWYQK6-WHJ
+#https://codility.com/demo/results/trainingZ9S82Y-N6V/
+
 require 'set'
 class PermCheck
   def solution(array)
