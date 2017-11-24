@@ -6,6 +6,7 @@ describe GenerateHashtag do
     expect(subject.generateHashtag("hello world")).to eq("#HelloWorld")
   end
 
-
+  it "should return the hashtag for the string = 'Hello there thanks for trying my Kata'" do 
+    expect(subject.generateHashtag("Hello there thanks for trying my Kata")).to eq("#HelloThereThanksForTryingMyKata")
+  end
 end
-
