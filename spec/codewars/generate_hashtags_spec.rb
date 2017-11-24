@@ -14,4 +14,3 @@ describe GenerateHashTags do
     expect(subject.generate_hashtags("hello world"*100)).to eq(false)
   end
 end
-
