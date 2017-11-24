@@ -39,7 +39,7 @@ class DigitalRoot
   def digital_root(number)
     return 0 if number == 0
     remainder = number%9
-    return remainder == 0 ? 9 : remainder
+    remainder == 0 ? 9 : remainder
   end
 
 end
