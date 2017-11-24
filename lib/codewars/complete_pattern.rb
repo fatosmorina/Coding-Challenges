@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/complete-the-pattern-number-2/train/ruby
+
 class CompletePattern
   def pattern(n)
    return "" if n < 1
