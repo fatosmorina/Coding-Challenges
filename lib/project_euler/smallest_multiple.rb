@@ -5,6 +5,9 @@
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 =end
+
+#https://projecteuler.net/problem=5
+
 class SmallestMultiple
   def solution(upper_range)
     n = upper_range
