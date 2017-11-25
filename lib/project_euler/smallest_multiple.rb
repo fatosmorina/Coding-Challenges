@@ -13,4 +13,3 @@ class SmallestMultiple
     end
   end
 end
-
