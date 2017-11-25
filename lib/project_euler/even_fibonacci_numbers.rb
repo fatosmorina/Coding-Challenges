@@ -1,3 +1,5 @@
+#https://projecteuler.net/problem=2
+
 class EvenFibonacciNumbers
   def solution(number)
     array = [1,1]
