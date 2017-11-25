@@ -1,3 +1,5 @@
+#https://projecteuler.net/problem=1
+
 class MultiplesOf3And5
  def solution(number)
   multiples = []
