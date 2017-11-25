@@ -8,5 +8,4 @@ describe SumSquareDifference do
   it 'should return 25164150 for n = 100' do
     expect(subject.solution(100)).to eq(25164150)
   end
-
 end
