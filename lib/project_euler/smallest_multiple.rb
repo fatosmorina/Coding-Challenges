@@ -14,12 +14,18 @@ class SmallestMultiple
     loop do
       divisors = []
       (2..upper_range).to_a.each do |a|
-        if n%a == 0
+        if n%a != 0
+          n += upper_range
+          next
+        else
           divisors << a
+          return n if divisors.length == (upper_range-1)
         end
       end
-      return n if divisors.length == (upper_range-1)
-      n += 1
     end
+  end
+
+  def faster_solution(upper_range)
+    (2..upper_range).inject(:lcm)
   end
 end
