@@ -1,3 +1,4 @@
+class EvenFibonacciNumbers
   def solution(number)
     array = [1,1]
     sum = 0
@@ -11,4 +12,4 @@
     end
     sum
   end
-
+end
