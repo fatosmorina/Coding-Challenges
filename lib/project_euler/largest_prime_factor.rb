@@ -1,3 +1,6 @@
+
+#https://projecteuler.net/problem=3
+
 require 'prime'
 
 class LargestPrimeFactor
@@ -9,5 +12,3 @@ class LargestPrimeFactor
     end
   end
 end
-
-puts solution(600851475143)
