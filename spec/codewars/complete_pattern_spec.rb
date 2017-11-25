@@ -11,4 +11,3 @@ describe CompletePattern do
   end
 
 end
-
