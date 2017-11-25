@@ -14,7 +14,7 @@ class LargestPalindromeProduct
       palindromes<< i*j if is_palindrome?(i*j)
     end
    end
-   palindromes
+   palindromes.max
   end
 
 private
