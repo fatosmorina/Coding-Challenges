@@ -1,3 +1,6 @@
+
+#https://projecteuler.net/problem=6
+
 class SumSquareDifference
   def solution(n)
     sum_squares = 0
