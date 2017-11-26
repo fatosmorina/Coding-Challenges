@@ -1,3 +1,6 @@
+
+#https://projecteuler.net/problem=9
+
 class SpecialPythagoreanTriplet
   def solution
     1.upto(997) do |x|
