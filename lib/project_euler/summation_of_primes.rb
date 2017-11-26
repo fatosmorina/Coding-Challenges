@@ -1,3 +1,6 @@
+
+#https://projecteuler.net/problem=10
+
 class SummationOfPrimes
   def solution(n)
     primes = get_primes(n)
