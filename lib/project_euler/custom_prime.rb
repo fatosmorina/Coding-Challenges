@@ -8,13 +8,12 @@ What is the 10 001st prime number?
 
 #https://projecteuler.net/problem=7
 
-require 'prime'
-
 class CustomPrime
   def faster_solution(number)
-    count = 0
+    require 'prime'
+    count = 1
     i = 2
-    while count != number
+    until count == number
       count += 1 if Prime.prime?(i)
       i += 1
     end
@@ -22,13 +21,13 @@ class CustomPrime
   end
 
   def solution(number)
-    count = 0
-    i = 2
-    while count != number
-      count += 1 if is_prime?(i)
-      i += 1
+    count = 1
+    a = 2
+    until count == number
+      a += 1
+      count += 1 if is_prime?(a)
     end
-    i
+    a
   end
 
   def is_prime?(number)
@@ -38,4 +37,3 @@ class CustomPrime
     true
   end
 end
-
