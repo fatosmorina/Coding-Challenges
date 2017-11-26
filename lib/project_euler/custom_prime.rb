@@ -27,7 +27,7 @@ class CustomPrime
       i += 1
       count += 1 if is_prime?(i)
     end
-    a
+    i
   end
 
   def is_prime?(number)
