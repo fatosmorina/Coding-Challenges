@@ -22,10 +22,10 @@ class CustomPrime
 
   def solution(number)
     count = 1
-    a = 2
+    i = 2
     until count == number
-      a += 1
-      count += 1 if is_prime?(a)
+      i += 1
+      count += 1 if is_prime?(i)
     end
     a
   end
