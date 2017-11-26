@@ -1,3 +1,6 @@
+
+#https://projecteuler.net/problem=16
+
 class PowerDigitSum
   def solution(n, power)
     a = n**power
