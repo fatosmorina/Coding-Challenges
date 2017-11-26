@@ -30,6 +30,7 @@ class CustomPrime
     i
   end
 
+private
   def is_prime?(number)
     2.upto(number**0.5) do |i|
       return false if number%i == 0
