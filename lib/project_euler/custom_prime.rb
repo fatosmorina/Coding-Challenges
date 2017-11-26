@@ -14,8 +14,8 @@ class CustomPrime
     count = 1
     i = 2
     until count == number
-      count += 1 if Prime.prime?(i)
       i += 1
+      count += 1 if Prime.prime?(i)
     end
     i
   end
