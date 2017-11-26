@@ -5,7 +5,7 @@ describe CustomPrime do
     expect(subject.solution(6)).to eq(13)
   end
 
-  it 'should return 13 for n = 10001' do
+  it 'should return 104743 for n = 10001' do
     expect(subject.solution(10001)).to eq(104743)
   end
 
@@ -13,4 +13,7 @@ describe CustomPrime do
     expect(subject.faster_solution(6)).to eq(13)
   end
 
+    it 'should return 104743 for n = 10001 when using Prime module' do
+    expect(subject.faster_solution(10001)).to eq(104743)
+  end
 end
